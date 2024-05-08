@@ -1,5 +1,5 @@
 {
-  "name": "cornerstone-side-image-loader",
+  "name": "nihtr-cornerstone-side-image-loader",
   "version": "1.0.6",
   "description": "utility to load sagittal and coronal view from axial dicom series",
   "keywords": [
@@ -35,14 +35,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plantarflex/cornerstoneSideImageLoader.git"
+    "url": "git+https://github.com/iamiota/cornerstoneSideImageLoader.git"
   },
-  "author": "plantarflex <plantarflex@naver.com>",
+  "author": "Chris Yi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plantarflex/cornerstoneSideImageLoader/issues"
+    "url": "https://github.com/iamiota/cornerstoneSideImageLoader/issues"
   },
-  "homepage": "https://github.com/plantarflex/cornerstoneSideImageLoader#readme",
+  "homepage": "https://github.com/iamiota/cornerstoneSideImageLoader#readme",
 	"files": [
     "dist/index.js"
   ]
